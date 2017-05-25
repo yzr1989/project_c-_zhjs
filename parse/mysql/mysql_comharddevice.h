@@ -1,0 +1,5 @@
+#ifndef   _MYSQL_COMHARDDEVICE_H_
+#define 	_MYSQL_COMHARDDEVICE_H_
+
+
+#endif   /*_MYSQL_COMHARDDEVICE_H_*/

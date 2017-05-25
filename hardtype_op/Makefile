@@ -1,0 +1,10 @@
+obj-y += measure_jack_op.o
+obj-y += struct_hardtype.o
+obj-y += xinke_relay_op.o
+obj-y += new_human_induction_op.o
+obj-y += relay_op.o
+obj-y += single_phase_meter_op.o
+obj-y += three_phase_meter_op.o
+obj-y += touch_switch_op.o
+obj-y += pcount_tcp_op.o
+obj-y += pcount_op.o

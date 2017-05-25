@@ -1,0 +1,11 @@
+obj-y += mysql_harddevice.o
+obj-y += mysql_hdparamlist.o
+#obj-y += mysql_hardtype.o
+obj-y += mysql_parse_modbus.o
+obj-y += mysql_pthread.o
+obj-y += mysql_comharddevice.o
+obj-y += mysql_roominfo.o
+obj-y += mysql_roominfo2.o
+obj-y += contextmodel_res.o
+obj-y += mysql_roominfo_jnkz.o
+obj-y += mysql_roominfo_pcount.o
